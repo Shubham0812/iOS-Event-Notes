@@ -1,4 +1,4 @@
-# iOS Event Notes Repository 🎉 
+# iOS Event Notes 🎉 
 
 #### Hello everyone! 👋 
 

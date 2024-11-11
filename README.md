@@ -25,7 +25,7 @@ I hope you find them helpful and engaging! Feel free to explore, comment, and sh
 ### Novemember
 
 #### 7th Nov
--- Build Faster and More Efficient Apps @ Apple Developer Team Bengaluru - [Link](https://github.com/Shubham0812/iOS-Event-Notes/blob/main/2024/%5B7-NOV%5D-Build-Faster-And-More-Efficient-Apps.md)
+-- Build Faster and More Efficient Apps @ Apple Developer Team Bengaluru - [Link](https://github.com/Shubham0812/iOS-Event-Notes/blob/main/2024/7-NOV-Build-Faster-And-More-Efficient-Apps.md)
 
 
 

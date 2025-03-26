@@ -1,5 +1,5 @@
 
-# Build faster and more efficient apps
+# Build Faster and More Efficient Apps
 #### Apple Developer Event - In Person - 7th November 2024 - Apple Developer Center Bengaluru
 
 

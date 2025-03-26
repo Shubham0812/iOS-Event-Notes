@@ -147,7 +147,9 @@ A great demo is structured, engaging, and well-rehearsed. It follows a logical f
 
 Great demos tell a great story. To make your demo more compelling:
 
-✅ Present a **problem-solution** narrative – Start with a relatable issue, then show how your app solves it. ✅ Use **real-life examples** – Demonstrate features in a way that connects with your audience. ✅ Keep it **concise and engaging** – Avoid excessive explanations; let the app speak for itself. ✅ End with a **strong call to action** – Reinforce the next steps for the audience.
+* Present a **problem-solution** narrative – Start with a relatable issue, then show how your app solves it. Use * **real-life examples** – Demonstrate features in a way that connects with your audience. 
+* Keep it **concise and engaging** – Avoid excessive explanations; let the app speak for itself.
+* End with a **strong call to action** – Reinforce the next steps for the audience.
 
 ----------
 
